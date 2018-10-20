@@ -146,6 +146,9 @@ title: Books to Read for Programmers
 *Soft Skills: The software developer's life manual*
 - [Amazon Smile](https://smile.amazon.com/Soft-Skills-software-developers-manual/dp/1617292397?pldnSite=1)
 - ISBN-13: 9781617292392 
+*The Compassionate Geek: How Engineers, IT Pros, and Other Tech Specialists Can Master Human Relations Skills to Deliver Outstanding Customer Service*
+- [Amazon]non-affiliate link (https://www.amazon.com/Compassionate-Geek-Engineers-Specialists-Outstanding-ebook/dp/B00GCUII4M/)
+- ISBN-13: 0983660735
 
 ## Other
 
